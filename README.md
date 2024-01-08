@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @deeenz
 - 👀 I’m a professional mobile application engineer (Flutter developer)
-- 🌱 I’m currently learning native iOS development
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 You can reach me on tajudeennurudeen099@gmail.com
 
